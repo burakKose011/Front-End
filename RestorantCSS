@@ -1,0 +1,299 @@
+// index.css
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+h3{
+    margin-left: 450px;
+    margin-top: 0px;
+}
+
+.html1{
+   align-items: center;
+    margin-left: 350px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+.html2{
+   margin-left: 650px;
+   margin-top: 0px;
+}
+
+body{
+   background-image: url(https://w.forfun.com/fetch/cd/cd593f7ae4483b48e87bd0e83c89b010.jpeg);
+   background-size: 1550px;
+}
+
+
+*{
+    color: white;
+}
+.buton1{
+    border: 2px solid orange;
+    background-color: orange;
+    padding: 16px;
+    border-radius: 38px;
+    padding-left: 45px;
+    padding-right: 45px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.buttons :hover{
+    box-shadow: 10px 10px 10px white ;
+}
+
+.buttons b:active{
+    color: blue;
+}
+
+.buton2{
+    border: 2px solid white;
+    padding: 16px;
+    border-radius: 38px;
+    padding-left: 45px;
+    padding-right: 45px;
+    text-decoration: none;
+    
+}
+
+
+.buttons{
+    display: flex;
+    padding-left: 500px;
+}
+
+//yemekler.css
+body{
+   background-image: url(https://top-fon.com/uploads/posts/2023-01/1674741477_top-fon-com-p-fon-dlya-prezentatsii-yeda-i-napitki-86.jpg);
+   background-size: 1527px;
+   color: white;
+   height: 1700px;
+}
+
+img{
+    box-shadow: 10px 10px 10px white;
+}
+
+.resim1{
+    border-radius: 40px;
+    border: 1px solid black;
+}
+.resim2{
+    border-radius: 40px;
+}
+
+.resim3{
+    border-radius: 40px;
+}
+
+td{
+    padding: 10px;
+    padding-left: 50px;
+    box-shadow: 10px 10px 10px  white;
+}
+
+.baslik{
+    padding-left: 140px;
+}
+
+.tablo1 td{ 
+    border: 2px solid black;
+}
+
+.yemekler{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 350px;
+}
+
+.kruvasan{
+    margin-right: 160px;
+    height: 80vh;
+    border: 3px solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px white;
+}
+
+.içecekler{
+    margin-right: 160px;
+    height: 80vh;
+    border: 3px solid black;
+    border-radius: 50px;  
+    box-shadow: 10px 10px 10px white;
+}
+
+.pasta{
+      height: 80vh;
+      border: 3px solid black;
+      border-radius: 50px;
+      box-shadow: 10px 10px 10px white;
+}
+
+.baslik1{
+    padding-left: 140px;
+}
+
+.tablo2 td{
+    border: 2px solid black;
+}
+
+.tablo2{
+    padding-left: 50px;
+}
+
+.tablo3 td{
+     border: 2px solid black;
+}
+
+.tablo3{
+    margin-left: 55px;
+}
+
+.tablo1{
+    margin-left: 35px;
+}
+
+.pastalar{
+    padding-left: 140px;
+}
+
+table{
+    box-shadow: 10px 10px 10px white;
+}
+
+.ben{
+    display: flex;
+}
+
+//siparis.css
+body{
+    background-image: url(https://top-fon.com/uploads/posts/2023-02/1675240333_top-fon-com-p-fon-dlya-prezentatsii-kafe-156.jpg);
+     background-size: 1700px;
+     color: rgb(10, 237, 93);
+}
+
+button{
+    padding: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 0px;
+    margin-left: 60px;
+    box-shadow: 10px 10px 10px rgb(16, 223, 33);
+    background-color: black;
+}
+input{
+    box-shadow: 10px 10px 10px rgb(15, 206, 15);
+}
+
+.butonlar{
+    margin-left: 250px;
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+}
+
+.baslik{
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+.baslik2{
+    margin-top: 60px;
+}
+
+.tablo{
+    margin-left: 500px;
+}
+
+td{
+    padding: 7px;
+}
+
+#mesaj{
+    padding-bottom: 35px;
+    padding-right: 60px;
+}
+
+.tablo2{
+    margin-left: 500px;
+}
+
+label{
+    box-shadow: 10px 10px 10px white;
+}
+
+#gönder :hover{
+    box-shadow: 10px 10px 10px rgb(28, 219, 124);
+
+}
+
+// iletisim.css
+body{
+    background-size: 1600px;
+    background-image: url(https://wallpaper-house.com/data/out/6/wallpaper2you_119532.jpg);
+}
+
+.bas{
+    display: flex;
+    align-items: center;
+}
+
+.baslik{
+    color: rgb(1, 20, 1);
+    margin-right: 10px;
+    margin-left: 400px;
+}
+.baslik2{
+    color: rgb(180, 11, 11);
+}
+.ikon{
+    display: flex;
+    align-items: center;
+}
+
+.ikon i{
+margin-right: 20px;
+}
+
+i{
+    font-size: 30px;
+}
+
+.iletişim{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.saat{
+   padding-top: 40px;
+   padding-left: 40px;
+   margin-right: 200px;
+}
+
+.resim{
+    margin-top: 50px;
+    box-shadow: 20px 20px 20px greenyellow;
+
+}
+
+.resim1{
+    display: flex;
+}
+
+.bilgi::first-letter{
+    color: rgb(157, 8, 21);
+    font-size: 400%;
+}
+.alt{
+    display: flex;
+}
+
+.bilgi{
+    color: rgb(31, 28, 24);
+    box-shadow: 10px 10px 10px greenyellow;
+}
