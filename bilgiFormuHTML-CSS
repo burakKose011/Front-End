@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+    h2{
+        text-align: center;
+    }
+    h1{
+       text-align: center;
+      
+    }
+    table{
+        margin-left: 600px;
+        
+    }
+
+    body{
+        background-image: url(https://i.pinimg.com/originals/63/93/1e/63931e3440bf6e6c9b6e1dc38d45d490.jpg);
+        background-size: 1600px;
+    }
+    #html9:hover{
+        box-shadow: 10px 10px 10px black;
+        color: blue;
+    }
+
+    
+</style>
+<body>
+    <h1>Lütfen Formu Eksiksiz Doldurunuz</h1>
+    <br>
+    <br>
+  <h2>Hesap Bilgileriniz</h2>
+  
+
+ 
+    <table>
+    <tr>
+        <td style="width: 120px;" >
+          <label for="html1">Kullanıcı adı:</label>
+        </td>
+        <td>
+            <input type="text" id="html1" placeholder="adınızı giriniz">
+        </td>
+    </tr>
+    </table>
+ 
+
+    <table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html2">Eposta:</label>
+        </td>
+        <td>
+            <input type="email" id="html2" placeholder="eposta giriniz">
+        </td>
+    </tr>
+   </table>
+   
+
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html3">Parola</label>
+        </td>
+        <td>
+            <input type="password" id="html3" placeholder="parola giriniz">
+        </td>
+    </tr>
+</table>
+<br>
+<br>
+<br>
+
+  <h2>Kişisel Bilgileriniz</h2>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html4">Adınız:</label>
+        </td>
+        <td>
+            <input type="text"  id="html4" placeholder="adınızı giriniz">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html5">Soyadınız:</label>
+        </td>
+        <td>
+            <input type="text"  id="html5" placeholder="soyadınızı girin">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html11">Doğum tarihiniz:</label>
+        </td>
+        <td>
+          <input type="date"  id="html11">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html6">Şehir:</label>
+        </td>
+        <td>
+            <select  id="html6" >
+                <option value="">seçiniz</option>
+                <option value="34">istanbul</option>
+                <option value="41">kocaeli</option>
+                <option value="12">samsun</option>
+                <option value="31">hatay</option>
+            </select>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html7">Cinsiyet:</label>
+        </td>
+        <td>
+            <input type="radio" id="html7">Erkek
+            <input type="radio"  id="html7">Kadın
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;">
+            <label for="html8">Hobileriniz:</label>
+        </td>
+        <td>
+            <input type="checkbox"  id="html8">Sinema
+            <input type="checkbox"  id="html8">Gezmek
+            <input type="checkbox"  id="html8">Spor
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="width: 120px;"><label for="html9"></label>
+        </td>
+   <td>
+     <input type="submit"  id="html9">
+   </td>
+    </tr>
+</table>
+
+
+    
+</body>
+</html>
