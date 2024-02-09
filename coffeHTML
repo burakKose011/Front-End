@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body>
+
+<header>
+<div class="header">
+
+  <div class="logo">
+    <img src="https://static.s123-cdn-static-d.com/uploads/6673655/normal_6303c1bce4785.svg" alt="" width="72px">
+  </div>
+
+   <i><b><p class="bas">Webcoffe</p></b></i>
+
+   <div class="link">
+    <a href="#baslik">HOME</a>
+    <a href="#aside">ABOUT US</a>
+    <a href="#aside1">OUR COFFE</a>
+    <a href="#aside2">OUR TEA</a>
+    <a href="#creations">CREATİONS</a>
+    <a href="#kıtchen">IN THE KITCHEN</a>
+    <a href="">CONTACT US</a>
+   </div>
+
+   <div class="icon">
+    <i class="bi bi-send-fill  iconn"></i>
+    <i class="bi bi-share-fill  iconn"></i>
+    <i class="bi bi-envelope  iconn"></i>
+    <i class="bi bi-telephone-fill  iconn"></i>
+   </div>
+
+</div>
+</header>
+
+
+
+                      <div class="index">
+
+<div id="baslik">
+
+<div class="üst">
+<h1 class="asd">Good Coffee,</h1>
+<h1 class="asdf">Good Friend</h1>
+<P>"changing our community one cup at a time"</P>
+</div>
+
+  <div class="kahve">
+    <img src="https://static1.s123-cdn-static-a.com/ready_uploads/media/81214/2000_5ce57c3f1aac2.jpg" alt=""  width="780px">
+  </div>
+
+</div>
+
+
+<div class="about us">
+<div id="aside">
+   <i><h3>ABOUT US</h3></i> 
+   <i class="bi bi-grip-horizontal"></i>
+</div>
+
+
+<div class="orta">
+
+<div class="mesaj">
+<i> <p>Pistos Coffee, toplumu teşvik etmek için <br> tasarlanmış gönüllü odaklı bir kahve dükkanıdır. <br>Amacımız, mevcut kaynaklarımızla topluluğumuza <br> hizmet etmek için düşük maliyeti korurken <br> yüksek kaliteli ürünler sunmaktır.
+
+    Müşterilerimizin <br> keyfi için çok çeşitli espresso kreasyonları, çaylar, <br> kakaolar ve unlu mamuller sunuyoruz.
+    
+    İster mağazamızda <br> bize katılın, ister hızlı bir başlangıç için uğrayın, <br> size hizmet etmeye hazırız.
+    
+    Hepimiz toplumla ilgiliyiz!!!</p> </i>
+</div>
+
+<div class="resim1">
+    <img src="https://addismercato.com/images/category/Coffee_Grain_Cup_446804.jpg" alt="" width="600px">
+</div>
+
+</div>
+</div>
+
+
+
+    
+
+    <div class="bilgilendirme">
+
+<div id="aside1">
+    <i><h3>OUR COFFEE</h3></i>
+    <i class="bi bi-grip-horizontal"></i>
+</div>
+
+<div>
+<i><p class="paragraf">Gururla San Francisco Körfezi Kahvesi servis ediyoruz: https://sfbaycoffee.com/</p></i>
+</div>
+
+<div class="paragraf2">
+<button class="paragraf1">Kahve Karışımları Ve İçeriikleri</button>
+</div>
+
+
+
+
+
+
+<div class="coffee  coffee1">
+
+    <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c52ea7e64.png" alt="" width="220px">
+
+    <div class="article">
+      <i><b>Fog Chaser </b> <br> Koyu ve orta kavrulmuş çekirdeklerin bir karışımıdır ve bu da hoş bir orta koyu <br> kavrulmuş kahve ile sonuçlanır. En yoğun sabah sisini bile kovalayacak harika <br> bir lezzet, denge ve pürüzsüzlük kombinasyonudur. <br> Kızartma Seviyesi: Orta Koyu Tatma Notları: Lezzetli, dengeli ve pürüzsüz</i>
+    </div>
+
+</div>
+
+
+<div class="coffee  coffee2">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c5ee02b91.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>Yağmur Ormanı Karışımı </b> <br>Orta Amerika'da yetişen fasulyelerden elde edilen orta koyu renkli bir kızartmadır. Bu lezzet dolu pürüzsüz bir kahvedir. Kızartma Seviyesi: Orta Koyu Tadım Notları: Tam Aromalı, Pürüzsüz ve Dengeli</i>
+     </div>
+  
+  </div>
+  
+
+  
+<div class="coffee  coffee3">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c6684cc61.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>Kahvaltı Karışımı </b> <br>Kahvaltı Karışımı, seçkin Orta Amerika kahve çekirdeklerinden yapılan imza orta kızartmamızdır. Sabaha başlamak için parlak, pürüzsüz bir fincan kahve yapar. En sevdiğimiz orta boy karışımımız. Kızartma Seviyesi: Orta Tadım Notları: Parlak, Pürüzsüz ve Dengeli </i>
+     </div>
+  
+  </div>
+  
+  
+<div class="coffee  coffee4">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c7017641a.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b> Moka Java Blend </b> <br>Endonezya ve Afrika'dan gelen kahvenin bir karışımıdır. Bu lezzetli orta rosto, altın kuru üzüm, esmer şeker, yasemin lezzet notalarına sahiptir ve tatlı meyvelerle tamamlanır. Kızartma Seviyesi: Orta Tadım Notları: Aromatik, Lezzetli ve Dengeli</i>
+     </div>
+  
+  </div>
+   
+
+  
+<div class="coffee  coffee5">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63f94aa2d59f3.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>% 100 Kolombiyal </b> <br>100 Kolombiya premium fasulyesi. Orta kavurma, aromatik, pürüzsüz ve lezzet dolu bir kahve ile sonuçlanır. Kızartma Seviyesi: Orta Tatma Notları: Pürüzsüz, Lezzetli ve Aromatik </i>
+     </div>
+  
+  </div>
+  
+
+  
+<div class="coffee  coffee6">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c8964facf.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>Fransız Kızartması </b> <br> En popüler kahvelerimizden biri olan Fransız Rostosu, Orta ve Güney Amerika'da yetişen fasulyelerden elde edilen tam gövdeli, koyu renkli bir rostodur. Kızartma Seviyesi: Koyu Tadım Notları: Cesur, Dumanlı bir Yüzeye Sahip Tam Gövdeli</i>
+     </div>
+  
+  </div>
+  
+
+
+  
+<div class="coffee  coffee7">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c79795ee0.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>Espresso Kızartma</b> <br>Espresso Rostomuz zengin, karmaşık ve dolgun. Günün herhangi bir saatinde Orta Amerika'da yetişen en iyi fasulyelerle yapılan bu orta koyu kızartmanın tadını çıkarın. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+     </div>
+  
+  </div>
+  
+
+  
+<div class="coffee  coffee8">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c81b95162.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b>Espresso (kafeinsiz)</b> <br> Kafeinsiz Espresso Rostomuz, Orta Amerika'da yetişen en iyi fasulyelerimizi kullanan orta koyu renkli bir rostodur. Bu, güzel zengin, karmaşık ve tam gövdeli bir kahve ile sonuçlanır. Espresso Kızartmamızı Swiss Water® Prosesini kullanarak kafeinsiz hale getiriyoruz. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+     </div>
+  
+  </div>
+  
+
+
+
+  
+<div class="coffee  coffee9">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c81b95162.png" alt="" width="220px">
+  
+     <div class="article">
+       <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+     </div>
+  
+  </div>
+  
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="bilgilendirme1">
+
+        
+<div id="aside2">
+  <i><h3>OUR TEA</h3></i>
+  <i class="bi bi-grip-horizontal"></i>
+</div>
+
+<div>
+<i><p class="paragraf">Gururla San Francisco Körfezi Kahvesi servis ediyoruz: https://sfbaycoffee.com/</p></i>
+</div>
+
+<div class="paragraf2">
+<button class="paragraf1">Çay Karışımları Ve İçeriikleri</button>
+</div>
+
+
+
+
+
+
+<div class="coffee  tea">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63851b5460d5c.png" alt="" width="220px">
+
+  <div class="article">
+    <i><b>Siyah Lavanta </b> <br>Enfes siyah Seylan ve lapsang souchong çayları, meyveli siyah frenk üzümü ve tatlı vanilya ile eşleştirilmiş muhteşem bir narin Fransız lavanta buketi. Tadım Notları: Crème Brulée, deri, tatlı meyveli şarap</i>
+  </div>
+
+</div>
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6304ffcb51d79.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>Züppe Detoksu </b> <br>Doyurucu karahindiba kökü, baharatlı Krishna tulsi, ağız sulandıran zencefil ve tatlı bal kuşundan oluşan doğal olarak temizleyici, kafeinsiz bir tonik. Antioksidan bakımından zengin ve lezzetli olan bu güzel dengelenmiş iksir, diğer tüm karahindiba çaylarını nazikçe uçurur. Tadım Notları: Kavrulmuş hindiba, kır çiçeği balı, shiso yaprağı</i>
+   </div>
+
+</div>
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6304ff2257fa0.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>Kahvaltı Karışımı </b> <br>Kahvaltı Karışımı, seçkin Orta Amerika kahve çekirdeklerinden yapılan imza orta kızartmamızdır. Sabaha başlamak için parlak, pürüzsüz bir fincan kahve yapar. En sevdiğimiz orta boy karışımımız. Kızartma Seviyesi: Orta Tadım Notları: Parlak, Pürüzsüz ve Dengeli </i>
+   </div>
+
+</div>
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_638519204df80.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b> Moka Java Blend </b> <br>Endonezya ve Afrika'dan gelen kahvenin bir karışımıdır. Bu lezzetli orta rosto, altın kuru üzüm, esmer şeker, yasemin lezzet notalarına sahiptir ve tatlı meyvelerle tamamlanır. Kızartma Seviyesi: Orta Tadım Notları: Aromatik, Lezzetli ve Dengeli</i>
+   </div>
+
+</div>
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6305018399ef5.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>% 100 Kolombiyal </b> <br>100 Kolombiya premium fasulyesi. Orta kavurma, aromatik, pürüzsüz ve lezzet dolu bir kahve ile sonuçlanır. Kızartma Seviyesi: Orta Tatma Notları: Pürüzsüz, Lezzetli ve Aromatik </i>
+   </div>
+
+</div>
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63851acd93495.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>Fransız Kızartması </b> <br> En popüler kahvelerimizden biri olan Fransız Rostosu, Orta ve Güney Amerika'da yetişen fasulyelerden elde edilen tam gövdeli, koyu renkli bir rostodur. Kızartma Seviyesi: Koyu Tadım Notları: Cesur, Dumanlı bir Yüzeye Sahip Tam Gövdeli</i>
+   </div>
+
+</div>
+
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63851a4c5639a.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>Espresso Kızartma</b> <br>Espresso Rostomuz zengin, karmaşık ve dolgun. Günün herhangi bir saatinde Orta Amerika'da yetişen en iyi fasulyelerle yapılan bu orta koyu kızartmanın tadını çıkarın. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+   </div>
+
+</div>
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_630501f94c2fd.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b>Espresso (kafeinsiz)</b> <br> Kafeinsiz Espresso Rostomuz, Orta Amerika'da yetişen en iyi fasulyelerimizi kullanan orta koyu renkli bir rostodur. Bu, güzel zengin, karmaşık ve tam gövdeli bir kahve ile sonuçlanır. Espresso Kızartmamızı Swiss Water® Prosesini kullanarak kafeinsiz hale getiriyoruz. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+   </div>
+
+</div>
+
+
+
+
+
+<div class="coffee  tea">
+
+<img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_630500480e8d5.png" alt="" width="220px">
+
+   <div class="article">
+     <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+   </div>
+
+</div>
+
+ 
+
+
+
+
+ <div class="coffee  tea">
+
+  <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6304fe095a81c.png" alt="" width="220px">
+        
+     <div class="article">
+       <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+     </div>
+        
+</div>
+        
+    
+
+
+
+
+  <div class="coffee  tea">
+
+    <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6305011aece38.png" alt="" width="220px">
+                
+    <div class="article">
+      <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+     </div>
+                
+ </div>
+                
+    
+
+
+
+
+
+  <div class="coffee  tea">
+
+    <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_630502546af32.png" alt="" width="220px">
+                        
+      <div class="article">
+         <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+       </div>
+                        
+</div>
+                        
+    
+
+
+
+
+
+  <div class="coffee  tea">
+
+    <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_634a27e9283cb.png" alt="" width="220px">
+                                
+       <div class="article">
+          <i><b> Kafeinsiz Gurme</b> <br>Kafeinsiz Gurme Karışımımız Swiss Water® Prosesi kullanılarak kafeinsiz hale getirilir. Orta ve Güney Amerika'dan% 100 Arabica çekirdeğinden oluşan bu orta kızartma, canlı, çok yönlü ve pürüzsüz bir kahve ile sonuçlanır. </i>
+      </div>
+                                
+</div>
+                                
+      </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+    <div class="bilgilendirme">
+
+      <div id="creations">
+          <i><h3>CREATİONS</h3></i>
+          <i class="bi bi-grip-horizontal"></i>
+      </div>
+      
+      
+      <div class="paragraf2">
+      <button class="paragraf1">What's Your Pleasure</button>
+      </div>
+      
+      
+      
+      
+      
+      
+      <div class="coffee  coffee1">
+      
+          <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c52ea7e64.png" alt="" width="220px">
+      
+          <div class="article">
+            <i><b>Fog Chaser </b> <br> Koyu ve orta kavrulmuş çekirdeklerin bir karışımıdır ve bu da hoş bir orta koyu <br> kavrulmuş kahve ile sonuçlanır. En yoğun sabah sisini bile kovalayacak harika <br> bir lezzet, denge ve pürüzsüzlük kombinasyonudur. <br> Kızartma Seviyesi: Orta Koyu Tatma Notları: Lezzetli, dengeli ve pürüzsüz</i>
+          </div>
+      
+      </div>
+      
+      
+      <div class="coffee  coffee2">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c5ee02b91.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>Yağmur Ormanı Karışımı </b> <br>Orta Amerika'da yetişen fasulyelerden elde edilen orta koyu renkli bir kızartmadır. Bu lezzet dolu pürüzsüz bir kahvedir. Kızartma Seviyesi: Orta Koyu Tadım Notları: Tam Aromalı, Pürüzsüz ve Dengeli</i>
+           </div>
+        
+        </div>
+        
+      
+        
+      <div class="coffee  coffee3">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c6684cc61.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>Kahvaltı Karışımı </b> <br>Kahvaltı Karışımı, seçkin Orta Amerika kahve çekirdeklerinden yapılan imza orta kızartmamızdır. Sabaha başlamak için parlak, pürüzsüz bir fincan kahve yapar. En sevdiğimiz orta boy karışımımız. Kızartma Seviyesi: Orta Tadım Notları: Parlak, Pürüzsüz ve Dengeli </i>
+           </div>
+        
+        </div>
+        
+        
+      <div class="coffee  coffee4">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c7017641a.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b> Moka Java Blend </b> <br>Endonezya ve Afrika'dan gelen kahvenin bir karışımıdır. Bu lezzetli orta rosto, altın kuru üzüm, esmer şeker, yasemin lezzet notalarına sahiptir ve tatlı meyvelerle tamamlanır. Kızartma Seviyesi: Orta Tadım Notları: Aromatik, Lezzetli ve Dengeli</i>
+           </div>
+        
+        </div>
+        
+      
+        
+      <div class="coffee  coffee5">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63f94aa2d59f3.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>% 100 Kolombiyal </b> <br>100 Kolombiya premium fasulyesi. Orta kavurma, aromatik, pürüzsüz ve lezzet dolu bir kahve ile sonuçlanır. Kızartma Seviyesi: Orta Tatma Notları: Pürüzsüz, Lezzetli ve Aromatik </i>
+           </div>
+        
+        </div>
+        
+      
+        
+      <div class="coffee  coffee6">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c8964facf.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>Fransız Kızartması </b> <br> En popüler kahvelerimizden biri olan Fransız Rostosu, Orta ve Güney Amerika'da yetişen fasulyelerden elde edilen tam gövdeli, koyu renkli bir rostodur. Kızartma Seviyesi: Koyu Tadım Notları: Cesur, Dumanlı bir Yüzeye Sahip Tam Gövdeli</i>
+           </div>
+        
+        </div>
+        
+      
+      
+        
+      <div class="coffee  coffee7">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c79795ee0.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>Espresso Kızartma</b> <br>Espresso Rostomuz zengin, karmaşık ve dolgun. Günün herhangi bir saatinde Orta Amerika'da yetişen en iyi fasulyelerle yapılan bu orta koyu kızartmanın tadını çıkarın. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+           </div>
+        
+        </div>
+        
+      
+        
+      <div class="coffee  coffee8">
+      
+        <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6303c81b95162.png" alt="" width="220px">
+        
+           <div class="article">
+             <i><b>Espresso (kafeinsiz)</b> <br> Kafeinsiz Espresso Rostomuz, Orta Amerika'da yetişen en iyi fasulyelerimizi kullanan orta koyu renkli bir rostodur. Bu, güzel zengin, karmaşık ve tam gövdeli bir kahve ile sonuçlanır. Espresso Kızartmamızı Swiss Water® Prosesini kullanarak kafeinsiz hale getiriyoruz. Kızartma Seviyesi: Orta Koyu Tadım Notları: Zengin, Karmaşık ve Dolgun</i>
+           </div>
+        
+        </div>
+        
+        
+              </div>
+      
+  
+
+
+
+
+
+
+
+
+
+              
+
+        <div class="bilgilendirme1">
+
+        
+          <div id="kıtchen">
+            <i><h3>IN THE KITCHEN</h3></i>
+            <i class="bi bi-grip-horizontal"></i>
+          </div>
+          
+          <div class="paragraf2">
+          <button class="paragraf1">Something to Satisfy</button>
+          </div>
+          
+          
+          
+          
+          
+          
+          <div class="coffee  tea">
+          
+            <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_63851b5460d5c.png" alt="" width="220px">
+          
+            <div class="article">
+              <i><b>Siyah Lavanta </b> <br>Enfes siyah Seylan ve lapsang souchong çayları, meyveli siyah frenk üzümü ve tatlı vanilya ile eşleştirilmiş muhteşem bir narin Fransız lavanta buketi. Tadım Notları: Crème Brulée, deri, tatlı meyveli şarap</i>
+            </div>
+          
+          </div>
+          
+          
+          <div class="coffee  tea">
+          
+          <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6304ffcb51d79.png" alt="" width="220px">
+          
+             <div class="article">
+               <i><b>Züppe Detoksu </b> <br>Doyurucu karahindiba kökü, baharatlı Krishna tulsi, ağız sulandıran zencefil ve tatlı bal kuşundan oluşan doğal olarak temizleyici, kafeinsiz bir tonik. Antioksidan bakımından zengin ve lezzetli olan bu güzel dengelenmiş iksir, diğer tüm karahindiba çaylarını nazikçe uçurur. Tadım Notları: Kavrulmuş hindiba, kır çiçeği balı, shiso yaprağı</i>
+             </div>
+          
+          </div>
+          
+          
+          
+          <div class="coffee  tea">
+          
+          <img src="https://static1.s123-cdn-static-a.com/uploads/6673655/800_6304ff2257fa0.png" alt="" width="220px">
+          
+             <div class="article">
+               <i><b>Kahvaltı Karışımı </b> <br>Kahvaltı Karışımı, seçkin Orta Amerika kahve çekirdeklerinden yapılan imza orta kızartmamızdır. Sabaha başlamak için parlak, pürüzsüz bir fincan kahve yapar. En sevdiğimiz orta boy karışımımız. Kızartma Seviyesi: Orta Tadım Notları: Parlak, Pürüzsüz ve Dengeli </i>
+             </div>
+          
+          </div>
+
+  </div>
+
+
+
+
+
+
+
+
+    
+
+  <div class="bilgilendirme son">
+
+    <div id="creations">
+        <i><h3>CONTECT US</h3></i>
+        <i class="bi bi-grip-horizontal"></i>
+    </div>
+
+    <div class="bilgi">
+    
+    <div class="kayıt1">
+
+  <div class="kayıt">
+     <input style="width: 250px; height: 40.55px;" type="text" id="" placeholder="Name">
+  </div>
+
+
+  <div class="kayıt">
+     <input style="width: 250px; height: 40.55px;" type="number"  id=""  placeholder="Phone">
+  </div>
+
+     </div>
+
+
+
+  <div class="kayıt">
+     <input style="width: 542px; height: 40.55px;" type="email"  id="" placeholder="Email address">
+  </div>
+
+
+  <div class="kayıt">
+     <input style="width: 542px; height: 90px;" type="text"  id="" placeholder="Message">
+  </div>
+    
+  <div class="buton">
+    <button>CONTECT US</button>
+  </div>
+      
+  </div>
+    </div>
+
+
+    <iframe id="contact_64cfbf9e1a5b0" class="map-container iframeLazyload entered loaded" data-src="https://maps-cdn.site123.com/include/globalMapDisplay.php?q=129+Central+Avenue%2C+Oak+Hill%2C+WV+25901%2C+USA&amp;z=15&amp;l=en&amp;ilfc=" frameborder="0" data-ll-status="loaded" src="https://maps-cdn.site123.com/include/globalMapDisplay.php?q=129+Central+Avenue%2C+Oak+Hill%2C+WV+25901%2C+USA&amp;z=15&amp;l=en&amp;ilfc=" style="pointer-events: none; width: 100%; height: 500px;"></iframe>
+
+
+
+
+
+  
+</body>
+</html>
