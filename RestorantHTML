@@ -1,0 +1,591 @@
+//index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burak Restorant</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <h1 class="html1">Yuvarlayın, prova yapın ve pişirin.</h1>
+  <h1 class="html2">Her gün.</h1>
+
+<h3>
+<p>Konu ekmek ve sandiviç olduğunda, tazelik eşittir kalite. Bu nedenle , maksimim tazelik <br> için her sabah somunlarımızı,simitlerimizi ve tatlı ikramlarımızı pişiriyoruz.</p>
+</h3>
+
+<div class="buttons">
+ <a href="yemekler.html" target="_blank" class="buton1"> <b>TAM MENÜYÜ GÖR</b> </a>
+ <a href="siparis.html"  class="buton2"> <b>ŞİMDİ SİPARİŞ VER</b> </a>
+</div>
+
+
+</body>
+</html>
+
+//yemekler.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tatlılar ve içecekler</title>
+    <link rel="stylesheet" href="yemekler.css">
+</head>
+
+<body>
+    <div class="yemekler">
+
+
+
+
+        <div class="kruvasan">
+            <img class="resim1" src="resimler/kruvasan.webp" alt="kruvasan resmi"  width="390px">
+
+            <h3 class="baslik">Kruvasanlar</h3>
+<b>
+            <table class="tablo1">
+          
+        <tr>
+            <td>Çilekli kruvasan</td>
+            <td>49.99 tl</td>
+        </tr>
+
+        <tr>
+            <td>Çikolatakı kruvasan</td>
+            <td>44.99 tl</td>
+        </tr>
+        
+        <tr>
+            <td>Muzlu kruvasan</td>
+            <td>59.99 tl</td>
+        </tr>
+
+        <tr>
+            <td>Sade kruvasan</td>
+            <td>39.99 tl</td>
+        </tr>
+
+        <tr>
+            <td>Frambuazlı kruvasan</td>
+            <td>59.99 tl</td>
+        </tr>
+            </table>
+</b>
+
+        </div>
+
+
+        
+
+        <div class="içecekler">
+              <img class="resim2" src="resimler/icecek.webp" alt="içecek" width="390px">
+
+              <h3 class="baslik1">İçecekler</h3>
+<b>
+              <table class="tablo2">
+
+                <tr>
+                    <td>Türk kahvesi</td>
+                    <td>19.99 tl</td>
+                </tr>
+
+                <tr>
+                     <td>Çilekli milkshake</td>
+                     <td>49.99 tl</td>
+                </tr>
+
+                <tr> 
+                    <td>Sade soda</td>
+                    <td> 4.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Kokteyl</td>
+                    <td>89.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Su</td>
+                    <td>2.99 tl</td>
+                </tr>
+              </table>
+</b>
+
+        </div>
+
+
+
+
+            <div class="pasta">
+                <img class="resim3" src="resimler/pasta.webp" alt="pasta resmi"   width="390px"
+                height="260px">
+
+                <h3 class="pastalar">Pastalar</h3>
+<b>
+                <table class="tablo3">
+
+                    <tr>
+                        <td>Çikolatalı pasta</td>
+                        <td>199.99 tl</td>
+                    </tr>
+
+                    <tr>
+                        <td>Muzlu pasta</td>
+                        <td>149.99 tl</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ekler</td>
+                        <td>79.99 tl</td>
+                    </tr>
+
+                    <tr>
+                        <td>Kuru pasta</td>
+                        <td>119.99 tl</td>
+                    </tr>
+
+                    <tr>
+                        <td>Tuzlu pasta</td>
+                        <td>99.99 tl</td>
+                    </td>
+
+                </table>
+ </b>
+            </div>
+
+ </div>
+
+
+
+
+           <!--      ORTA    KISIM        -->
+
+
+
+<div class="yemekler">
+
+
+
+    <div class="kruvasan hamburger">
+        <img class="resim1" src="resimler/hamburger.webp" alt="hamburger resmi"  width="390px">
+
+        <h3 class="baslik">Hamburger</h3>
+<b>
+        <table class="tablo1">
+      
+    <tr>
+        <td>Mega hamburger</td>
+        <td>149.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Köfte hamburger </td>
+        <td>114.99 tl</td>
+    </tr>
+    
+    <tr>
+        <td>Double hamburger</td>
+        <td>139.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Cheadarlı hamburger</td>
+        <td>129.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Çoçuk boy hamburger</td>
+        <td>89.99 tl</td>
+    </tr>
+        </table>
+</b>
+
+    </div>
+
+
+    
+
+    <div class="içecekler pizza">
+          <img class="resim2" src="resimler/pizza.webp" alt="pizza resmi" width="390px">
+
+          <h3 class="baslik1">Pizza</h3>
+<b>
+          <table class="tablo2">
+
+            <tr>
+                <td>Karışık pizza</td>
+                <td>99.99 tl</td>
+            </tr>
+
+            <tr>
+                 <td>Mozarella pizza</td>
+                 <td>109.99 tl</td>
+            </tr>
+
+            <tr> 
+                <td>Margarita</td>
+                <td>84.99 tl</td>
+            </tr>
+
+            <tr>
+                <td>Orta boy pizza</td>
+                <td>69.99 tl</td>
+            </tr>
+
+            <tr>
+                <td>Fesleğenli pizza</td>
+                <td>92.99 tl</td>
+            </tr>
+          </table>
+</b>
+
+    </div>
+
+
+
+
+        <div class="pasta baklava">
+            <img class="resim3" src="resimler/Soguk-Baklava.jpg" alt="baklava resmi"   width="390px"
+            height="260px">
+
+            <h3 class="pastalar">Baklava</h3>
+<b>
+            <table class="tablo3">
+
+                <tr>
+                    <td>Soğuk baklava</td>
+                    <td>199.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>baklava</td>
+                    <td>149.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Üçgen baklava</td>
+                    <td>79.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Çikolatalı baklava</td>
+                    <td>219.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Cevizli baklava</td>
+                    <td>99.99 tl</td>
+                </td>
+
+            </table>
+</b>
+        </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="yemekler">
+
+
+
+    <div class="kruvasan tost">
+        <img class="resim1" src="resimler/tost.jpg" alt="tost resmi"  width="390px">
+
+        <h3 class="baslik">Tost</h3>
+<b>
+        <table class="tablo1">
+      
+    <tr>
+        <td>Ayvalık tostu</td>
+        <td>49.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Kavurmalı tost </td>
+        <td>114.99 tl</td>
+    </tr>
+    
+    <tr>
+        <td>Karışık tost</td>
+        <td>139.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Sucuklu tost</td>
+        <td>129.99 tl</td>
+    </tr>
+
+    <tr>
+        <td>Peynirli tost</td>
+        <td>89.99 tl</td>
+    </tr>
+        </table>
+</b>
+
+    </div>
+
+
+    
+
+    <div class="içecekler sogukiçecek">
+          <img class="resim2" src="resimler/sogukicecek.webp" alt="soğuk içecek resmi" width="390px">
+
+          <h3 class="baslik1">Soğuk içecekler</h3>
+<b>
+          <table class="tablo2">
+
+            <tr>
+                <td>Americano</td>
+                <td>29.99 tl</td>
+            </tr>
+
+            <tr>
+                 <td>Latte</td>
+                 <td>29.99 tl</td>
+            </tr>
+
+            <tr> 
+                <td>Macchiato</td>
+                <td>34.99 tl</td>
+            </tr>
+
+            <tr>
+                <td>Cold brew</td>
+                <td>59.99 tl</td>
+            </tr>
+
+            <tr>
+                <td>Cappuccino</td>
+                <td>42.99 tl</td>
+            </tr>
+          </table>
+</b>
+
+    </div>
+
+
+
+
+        <div class="pasta makarna">
+            <img class="resim3" src="resimler/makarna.webp" alt="makarna resmi"   width="390px"
+            height="260px">
+
+            <h3 class="pastalar">Makarna</h3>
+<b>
+            <table class="tablo3">
+
+                <tr>
+                    <td>Fettuccine</td>
+                    <td>199.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Penne rigate</td>
+                    <td>149.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Spagetti</td>
+                    <td>79.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Bucatini</td>
+                    <td>219.99 tl</td>
+                </tr>
+
+                <tr>
+                    <td>Linguini</td>
+                    <td>99.99 tl</td>
+                </td>
+
+            </table>
+</b>
+        </div>
+
+
+</div>
+
+      </body>
+</html>
+
+//siparis.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="siparis.css">
+</head>
+
+<body>
+    <div class="butonlar">
+    <button><a href="index.html">Anasayfa</a></button> 
+    <button><a href="yemekler.html">Menüler</a></button>
+    <button><a href="iletisim.html">İletişim</a></button>
+    <button><a href="">Kaydol</a></button>
+    </div>
+
+
+    <div class="baslik">
+          <h2>İletişim Formu:</h2>
+          <p>Önerilerini ve eleştirilerinizi iletebilirsiniz.</p>
+    </div>
+
+
+<div class="tablo">
+<table>
+    <tbody>
+
+        <tr>
+            <td><label for="isim"> <b>Ad Soyad:</b> </label></td>
+            <td><input type="text" id="isim" placeholder="isminizi giriniz"></td>
+        </tr>
+
+        <tr>
+            <td><label for="mail"> <b>Email:</b> </label></td>
+            <td><input type="email" id="mail" placeholder="mailinizi giriniz"></td>
+        </tr>
+
+        <tr>
+            <td><label for="adres"> <b>Adres:</b> </label></td>
+            <td><input type="text" id="adres" placeholder="adresinizi giriniz"></td>
+        </tr>
+
+        <tr>
+            <td><label for="telefon"> <b>Telefon(isteğe bağlı):</b> </label></td>
+            <td><input type="text" id="telefon" placeholder="telefonunuzu giriniz"></td>
+        </tr>
+
+        <tr>
+            <td><label for="mesaj"> <b>Mesajınız:</b> </label></td>
+            <td><input type="text" id="mesaj"></td>
+        </tr>
+
+        <tr>
+            <td><label for="cinsiyet">Cinsiyet:</label></td>
+            <td><input type="radio" id="cinsiyet">KADIN</td>
+            <td><input type="radio" id="cinsiyet">ERKEK</td>
+        </tr>
+
+    </tbody>
+</table>
+</div>
+
+
+
+<div class="tablo2">
+
+    <h2 class="baslik2">Hesap Bilgileriniz:</h2>
+    <table>
+        <tbody>
+
+            <tr>
+                <td> <label for="iban"><b>IBAN numarası:</b></label></td>
+                <td> <input type="text"  id="iban" placeholder="ibanınızı giriniz"></td>
+            </tr>
+
+            <tr>
+                <td> <label for="kart no"><b>Kart numarası:</b></label></td>
+                <td> <input type="text"  id="kart no" placeholder="kart no giriniz"></td>
+            </tr>
+
+            <tr>
+                <td> <label for="şifre"><b>Kart şifresi:</b></label></td>
+                <td> <input type="password"  id="şifre" placeholder="şifre giriniz"></td>
+            </tr>
+
+            <tr>
+                <td> <label for="iban"><b>Kart son kullanma tarihi:</b></label></td>
+                <td> <input type="date"  id="iban" placeholder="kart skt giriniz"></td>
+            </tr>
+
+            <tr id="gönder">
+                <td> <input type="submit"></td>
+            </tr>
+
+        </tbody>
+    </table>     
+</div>
+
+ </body>
+</html>
+
+// iletisim.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="iletisim.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body>
+
+   
+    <div class="bas">
+    <h2 class="baslik">HER LEZZETİN ARKASINDA</h2>
+    <h2 class="baslik2">BAŞARILI BİR MUTFAK VARDIR.</h2>
+    </div>
+
+
+<div class="resim1">
+
+    <img class="resim" src="https://binbirilan.net/uploads/ajax/2021/01/21/teklif-al1-6009bfc84a164.png" alt="" width="350px">
+
+<div class="iletişim">
+
+    <div class="ikon">
+        <i class="bi bi-geo-alt-fill"></i>
+        <h5>Odabaşı Mahallesi Demirhan Sevgi Caddesi Dış Kapı <br>   <h5>No:3/1 Değirmenlik Bel./Lefkoşa</h5></h5>
+    </div>
+  
+
+
+      <div class="ikon">
+           <i class="bi bi-telephone"></i>
+           <p>0 533 456 78 99</p>
+      </div>
+
+       <div class="ikon">
+           <i class="bi bi-envelope"></i>
+           <p>info@limonmutfak.com</p>
+       </div>
+      
+</div>
+</div>
+
+
+
+<div class="alt">
+
+<div class="saat">
+<h4>ÇALIŞMA SAATLERİ</h4>
+<p>Pazartesi-Cuma: 8.30 - 18.00</p>
+<p>Cumartesi: 8.30 - 13.00</p>
+</div>
+
+
+   
+<h3 class="bilgi">Bizce üretmek bir sanattır. Burak restoran, esnek hizmet anlayışıyla kendi menünüzü <br> kendiniz belirleyin! Müşterilerinin ihtiyacı olan tüm yemek hizmetlerini profesyonel <br> bir şekilde karşılamaktadır.</h3>
+
+
+</div>
+
+</body>
+</html>
