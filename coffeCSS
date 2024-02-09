@@ -1,0 +1,259 @@
+.logo{
+padding-left: 20px;
+padding-top: 10px;
+
+}
+
+.bas{
+    font-size: 30px;
+    margin-right: 210px;
+    padding-left: 2px;
+}
+
+.link{
+    font-size: 16px;
+    padding-top: 40px;
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+.header{
+    display: flex;
+    position: fixed;              /* üstteki headerı öne çıkarır yani sen sayfayı aşagı indirsen bile üstte kalır*/
+    z-index: 3;
+    width: 100%;
+    background-color: #e4eddbe0;
+}
+
+.index{
+    position: absolute;
+    z-index: 1;
+}
+
+.kahve img{
+   border-radius: 8px;
+   box-shadow: 10px 10px 10px black;
+
+}
+
+.link a{
+    padding-right: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+
+body{
+    margin: 0px;
+}
+#baslik{
+    display: flex;
+}
+.üst{
+    color: white;
+    box-shadow: 10px 10px 10px black;
+    padding-top: -30px;
+    font-size: 45px;
+    padding-left: 90px;
+    padding-right: 130px;
+    background-color:#906048;
+    border-radius: 8px;
+}
+
+.asd{
+    margin-bottom: -50px;
+   text-shadow: 10px 10px 10px black;
+   padding-top: 60px;
+}
+.asdf{
+    margin-bottom: -15px;
+    text-shadow: 10px 10px 10px black;
+}
+.üst p{
+    font-size: 30px;
+    text-shadow: 10px 10px 10px black;
+}
+
+#aside{
+    font-size: 25px;
+    margin-left: 670px;
+    margin-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+#aside1{
+    font-size: 25px;
+    margin-left: 670px;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+
+#aside2{
+    font-size: 25px;
+    margin-left: 670px;
+    margin-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+#creations{
+    font-size: 25px;
+    margin-left: 670px;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+
+#kıtchen{
+    font-size: 25px;
+    margin-left: 670px;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+
+
+.bi-grip-horizontal{
+font-size: 60px;
+margin-left: 40px;
+
+}
+
+.mesaj{
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #ddd4cf;
+    margin-left: 200px;
+    position: relative;
+    right: -50px;
+    font-size: 20px;
+
+}
+
+.mesaj p{
+    color: rgb(70, 66, 66);
+}
+
+.orta{
+    display: flex;
+}
+
+.resim1 img{
+    border-radius: 8px;
+    box-shadow: 20px 20px 20px black;
+}
+.paragraf{
+    margin-left: 400px;
+    font-size: 25px;
+}
+.paragraf1{
+    margin-left: 650px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    
+    box-shadow: 10px 10px 10px #906048; 
+    padding: 10px;
+    border-radius: 10px;                              /*  TEXT-SHADOW YAPARSAN HER BİR KELİMEYİ GÖLGELENDİRİR*/
+}
+
+.paragraf1:hover{
+box-shadow: 15px 15px 15px black;
+transition: all 2s;
+}
+
+.coffee{
+    display: flex;                          /* AYNI DİV İÇİNDEKİ ALT ALTA OLAN YAZI VEYA RESİMLERİ YAN YANA GETİRİR*/
+    margin-right: 220px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    background-color: white;
+    box-shadow: 10px 10px 10px black;
+}
+
+.coffee:hover{
+     box-shadow: 15px 15px 15px burlywood;
+     transition: 2s;
+}
+
+.coffee i{
+    font-size: 20px;                       /* FONT-SİZE YAZI OLAN ETİKETLERİN BOYUTUNU DEĞİSTİRİ RESİM İÇİN BACKGROUND-SİZE KULLANILIR*/
+}
+.article{
+    padding: 40px;
+}
+
+.bilgilendirme{
+    background-color: #dcdcdca5;
+    padding-bottom: 150px;                  /* EN ALTTAKİ YAZI İLE EN ALTTA BOŞLUK BIRAKIR*/
+}
+
+.tea{
+    background-color: #DCDCDC ;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px black;
+}
+
+.tea:hover{
+    box-shadow: 15px 15px 15px greenyellow;
+}
+
+.tea img{
+    background-color: #DCDCDC;
+}
+
+.icon{
+    padding-top: 40px;
+    font-size: 14px;
+    padding-left: 40px;
+}
+
+.iconn{
+    padding-right: 20px;
+}
+
+.kayıt{
+    margin-right: 35px;
+    margin-bottom: 18px;
+}
+
+.kayıt1{
+    display: flex;
+}
+
+.buton button{
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #307672;
+    border: 1px solid white;
+    color: white;
+}
+
+.bilgi input{
+    border-radius: 3px;
+    border: 1px solid white;
+}
+
+.bilgi input:hover{
+    border: 1px solid rgba(0, 0, 255, 0.742);
+}
+
+.son{
+    padding-bottom: 50px;
+}
+
+
+
